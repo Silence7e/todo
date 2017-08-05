@@ -1,0 +1,12 @@
+.idea
+.log
+/node_modules
+/public/compiled
+/report
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
+/build
+/dist
+npm-debug.log
